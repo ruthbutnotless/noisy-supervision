@@ -38,7 +38,7 @@ This project demonstrates the **impact of noisy supervision** in a simple **PyTo
 
     Here is an example of the generated accuracy plots:
 
-    ![Accuracy Plot](git/accuracy_plot.png)
+    ![Accuracy Plot](accuracy_plot.png)
 
 ## Reference
 
